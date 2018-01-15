@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","The error used when managing connections with `r2d2`."]],"struct":[["ConnectionManager","An r2d2 connection manager for use with Diesel."]]});
